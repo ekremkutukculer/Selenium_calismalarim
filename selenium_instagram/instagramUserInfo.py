@@ -1,0 +1,2 @@
+username = "kullanıcısadı"
+password = "sifre"
